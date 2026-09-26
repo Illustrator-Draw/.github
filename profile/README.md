@@ -45,7 +45,7 @@ Illustrator Draw combines vector graphics capabilities with flexible creative to
 
 ## What It Looks Like
 
-![Interface](https://iastate.pressbooks.pub/app/uploads/sites/53/2021/06/W1S2CO6-13-more-tools-01.jpg)
+![Interface](https://sm.pcmag.com/pcmag_me/photo/a/adobe-illu/adobe-illustrator-interface_j4mp.png)
 
 ---
 
